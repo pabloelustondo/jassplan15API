@@ -1,0 +1,16 @@
+{
+  "name": "JassplanAPI",
+  "version": "0.0.0",
+  "description": "JassplanAPI",
+  "main": "app.js",
+  "author": {
+    "name": "pablo",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "mongodb": "^2.0.32",
+    "stylus": "*"
+  }
+}
